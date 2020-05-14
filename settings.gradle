@@ -1,0 +1,3 @@
+include ':app', ':mylibrary'
+include ':voice_eva'
+rootProject.name='My Application'
